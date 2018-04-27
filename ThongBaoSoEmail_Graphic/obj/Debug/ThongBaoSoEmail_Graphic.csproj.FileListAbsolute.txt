@@ -1,0 +1,10 @@
+D:\dai hoc\thuchanh_laptrinhmang\ThongBaoSoEmail_Graphic\ThongBaoSoEmail_Graphic\bin\Debug\ThongBaoSoEmail_Graphic.exe.config
+D:\dai hoc\thuchanh_laptrinhmang\ThongBaoSoEmail_Graphic\ThongBaoSoEmail_Graphic\bin\Debug\ThongBaoSoEmail_Graphic.exe
+D:\dai hoc\thuchanh_laptrinhmang\ThongBaoSoEmail_Graphic\ThongBaoSoEmail_Graphic\bin\Debug\ThongBaoSoEmail_Graphic.pdb
+D:\dai hoc\thuchanh_laptrinhmang\ThongBaoSoEmail_Graphic\ThongBaoSoEmail_Graphic\obj\Debug\ThongBaoSoEmail_Graphic.csprojResolveAssemblyReference.cache
+D:\dai hoc\thuchanh_laptrinhmang\ThongBaoSoEmail_Graphic\ThongBaoSoEmail_Graphic\obj\Debug\ThongBaoSoEmail_Graphic.Form1.resources
+D:\dai hoc\thuchanh_laptrinhmang\ThongBaoSoEmail_Graphic\ThongBaoSoEmail_Graphic\obj\Debug\ThongBaoSoEmail_Graphic.Properties.Resources.resources
+D:\dai hoc\thuchanh_laptrinhmang\ThongBaoSoEmail_Graphic\ThongBaoSoEmail_Graphic\obj\Debug\ThongBaoSoEmail_Graphic.csproj.GenerateResource.cache
+D:\dai hoc\thuchanh_laptrinhmang\ThongBaoSoEmail_Graphic\ThongBaoSoEmail_Graphic\obj\Debug\ThongBaoSoEmail_Graphic.csproj.CoreCompileInputs.cache
+D:\dai hoc\thuchanh_laptrinhmang\ThongBaoSoEmail_Graphic\ThongBaoSoEmail_Graphic\obj\Debug\ThongBaoSoEmail_Graphic.exe
+D:\dai hoc\thuchanh_laptrinhmang\ThongBaoSoEmail_Graphic\ThongBaoSoEmail_Graphic\obj\Debug\ThongBaoSoEmail_Graphic.pdb
